@@ -1,4 +1,4 @@
-##Small organ segmentation
+## Small organ segmentation
 Small organ segmentation in whole-body scans is challenging. A coarse-to-fine, hierarchical strategy is a common approach to alleviate this problem, with weighting schemes based on auto-context and spatial atlas priors to deal with anatomical variation and class imbalance. This repository is build based on DLTK for FCN baseline and multi-atlas segmentation (http://www.doc.ic.ac.uk/~wbai/software(label_fusion_v2.0.tar.gz) for spatial atlas priors.
 
 
@@ -10,11 +10,7 @@ Vanya V. Valindria, Ioannis Lavdas, Juan Cerrolaza, Eric O. Aboagye, Andrea G. R
 
 ## Deep Learning Toolkit (DLTK) for Medical Imaging
 [![Gitter](https://badges.gitter.im/DLTK/DLTK.svg)](https://gitter.im/DLTK/DLTK?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Coverage Status](https://coveralls.io/repos/github/DLTK/DLTK/badge.svg?branch=master)](https://coveralls.io/github/DLTK/DLTK?branch=dev)
-[![Build Status](https://travis-ci.org/DLTK/DLTK.svg?branch=master)](https://travis-ci.org/DLTK/DLTK)
 
-
-### Installation
 1. Setup a virtual environment and activate it. If you intend to run this on 
 machines with different system versions, use the --always-copy flag:
 
