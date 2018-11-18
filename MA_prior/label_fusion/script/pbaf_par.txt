@@ -1,0 +1,13 @@
+Search volume size in X (pixel)   = 5
+Search volume size in Y (pixel)   = 5
+Search volume size in Z (pixel)   = 1
+Patch size in X (pixel)           = 7
+Patch size in Y (pixel)           = 7
+Patch size in Z (pixel)           = 1
+Use spatial feature               = False
+Use gradient feature              = True
+Use context feature               = True
+Use binary context feature        = True
+K                                 = 100
+h                                 = 16
+Starting radius                   = 4
